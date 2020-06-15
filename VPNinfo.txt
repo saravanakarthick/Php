@@ -1,0 +1,11 @@
+Connection Name : Ameex
+
+Server Address : 103.140.252.66
+
+Port : 10443
+
+User Name : Saravana1207
+
+Password: FNJZL5mW23uo
+
+ 
